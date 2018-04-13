@@ -1,0 +1,17 @@
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.deps.json
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoft.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoft.pdb
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.csprojResolveAssemblyReference.cache
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.csproj.CoreCompileInputs.cache
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.AssemblyInfoInputs.cache
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.AssemblyInfo.cs
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.pdb
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.dll
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\obj\Debug\netcoreapp2.0\BashSoftTesting.pdb
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.runtimeconfig.json
+C:\Users\Viktor-PC\Desktop\BashSoft\BashSoftTesting\bin\Debug\netcoreapp2.0\BashSoftTesting.runtimeconfig.dev.json
